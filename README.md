@@ -7,7 +7,7 @@ Stack: React Native · Expo Go · TypeScript
 - Node.js 20+ · pnpm · Expo Go · Git
 
 ## Rodando pela primeira vez
-1. Clone: `git clone https://github.com/CampsuDelivery/campusdelivery-mobile/settings/branches`
+1. Clone: `git clone https://github.com/CampsuDelivery/campusdelivery-mobile.git`
 2. Instale: `pnpm install`
 3. Copie o env: `cp .env.example .env`
 4. Rode: `pnpm start`
