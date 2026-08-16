@@ -1,10 +1,10 @@
-# CampusDelivery Mobile
+# CampusDelivery Mobile [![CI](https://github.com/CampsuDelivery/campusdelivery-mobile/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/CampsuDelivery/campusdelivery-mobile/actions/workflows/ci.yml)
 
 App Android do CampusDelivery - um marketplace de alimentos do campus
 Stack: React Native · Expo (SDK 54) · Expo Router · TypeScript · pnpm
 
 ## Pré-requisitos
-- Node.js 20+ · pnpm · Expo Go (celular) · Git
+- Node.js 22+ · pnpm · Expo Go (celular) · Git
 
 ## Rodando pela primeira vez
 1. Clone: `git clone https://github.com/CampsuDelivery/campusdelivery-mobile.git`
