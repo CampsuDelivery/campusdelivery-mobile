@@ -11,7 +11,7 @@
 
 ### Checklist antes de pedir mandar para review
 - [ ] Testado localmente
-- [ ] Rodei biome e sem erros
+- [ ] Rodei lint e typecheck sem erros
 - [ ] Segui o padrão do módulo/tela de exemplo
 - [ ] Nomeei a branch e os commits conforme o CONTRIBUTING.md
 - [ ] Não commitei .env, senha ou credencial
